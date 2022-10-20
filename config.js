@@ -59,7 +59,7 @@ global.ppulsa = '083152910041' //Nomor SimCard Yang Kamu Pake
 global.psaweria = 'https://saweria.com/XiaoYan021' //Link Saweriamu Kalo Nggada Ketik - aja
 
 /*============== NOMOR ==============*/
-global.nomorbot = '62831529100414' //Nomor Bot
+global.nomorbot = '62831529100412' //Nomor Bot
 global.nomorown = '6283152910041' //Nomor Owner
 global.namebot = 'PyBot-MD' //Nama Bot
 global.nameown = 'Lanz' // Nama Owner
